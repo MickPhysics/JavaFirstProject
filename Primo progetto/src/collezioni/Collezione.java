@@ -4,6 +4,7 @@ public class Collezione {
 	
 	public void getArrayList(){
 		
+		//Commento per vedere se GIT funziona
 		// politica FIFO First In First Out
 		// esempio di lista
 		// se voglio un array dinamico di interi devo usare la wrapper Integer e non Int, altrimenti non avrei riferimenti
